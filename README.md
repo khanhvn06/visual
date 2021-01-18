@@ -1,1 +1,1 @@
-It is recommended to use Google Chrome for big pdf files
+It is recommended to use Microsoft Edge to read big pdf files
